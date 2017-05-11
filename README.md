@@ -13,5 +13,5 @@ From Plain HTML to Library to Custom
 ## Step 3 - Checkout to Library Added (JUST BOOTSTRAP)
 ```git checkout ea9ca757375b8c31efe175d405bb7e6bfddf179a```
 
-## Step 4 - Review in AWE the power of CSS
+## Step 4 - Review (in AWE) the power of CSS
 and pepper your instructor with questions
