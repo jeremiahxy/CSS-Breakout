@@ -4,8 +4,8 @@ From Plain HTML to Library to Custom
 ## Step 1 - Clone this repo
 `git clone git@github.com:jeremiahxy/CSS-Breakout.git`
 
-######(step 1.5 ... vavigate into CSS-Breakout folder)
-###### `cd CSS-Breakout`
+###### (step 1.5 ... navigate into CSS-Breakout folder)
+`cd CSS-Breakout`
 
 ## Step 2 - Checkout to the NO CSS
 (step 1.5 ... vavigate into CSS-Breakout folder)
