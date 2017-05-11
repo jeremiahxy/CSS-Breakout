@@ -7,7 +7,7 @@ From Plain HTML to Library to Custom
 ###### (step 1.5 ... navigate into CSS-Breakout folder)
 ```cd CSS-Breakout```
 
-## Step 2 - Checkout to the NO CSS
+## Step 2 - Checkout to Boring plain HTML (NO CSS)
 ```git checkout d7e29e41c90eb333bc76a762b4442c91bf078c37```
 
 ## Step 3 - Checkout to Library Added (JUST BOOTSTRAP)
