@@ -1,6 +1,8 @@
 # CSS-Breakout
 From Plain HTML to Library to Custom
 
+![Layout](assets/images/layout.png)
+
 ## Step 1 - Clone this repo
 ```git clone https://github.com/jeremiahxy/CSS-Breakout.git```
 
@@ -18,3 +20,5 @@ From Plain HTML to Library to Custom
 
 ## Step 5 - Review (in AWE) the power of CSS
 and pepper your instructor with questions
+
+![Layout](assets/images/css_breakout_final.png)
