@@ -14,7 +14,7 @@ From Plain HTML to Library to Custom
 ```git checkout a4a4489a00c0f4714d4ac8d68103483db9d3871d```
 
 ## Step 4 - Checkout to Fully Custom CSS (ALL CUSTOM CSS)
-```git checkout ea9ca757375b8c31efe175d405bb7e6bfddf179a```
+```git checkout master```
 
 ## Step 5 - Review (in AWE) the power of CSS
 and pepper your instructor with questions
